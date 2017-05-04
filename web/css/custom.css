@@ -1,0 +1,28 @@
+#head-navbar {
+  width: 100%;
+  white-space: nowrap;
+  display: inline-block;
+  overflow: hidden;
+}
+.nav li a {
+  display: inline-block;
+  width:initial;
+  float:left;
+  white-space: nowrap;
+}
+.nav { 
+  display: inline-block;
+}
+
+@media screen and (max-width:768px)
+{
+  .nav.navbar-nav.pull-right { float:none !important; }
+}
+
+
+.news-info { 
+  font-family: 'Roboto', sans-serif;
+  font-size: 19px;
+  color: white;
+}
+

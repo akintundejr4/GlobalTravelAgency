@@ -8,4 +8,4 @@ Created really to utlize aspects of JQuery and JavaScript that I had not applied
 The site is really image and CSS animation heavy. Utlizes Boostrap, HTML5, JavaScript, JQuery and CSS style sheets pulled from W3Schools.  
 
 
-Link To Live Site:   http://finalproject.x10host.com/
+

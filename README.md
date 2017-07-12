@@ -1,11 +1,11 @@
 # GlobalTravelAgency
 
 
-Personal project website for a created fictional travel agency. 
+A VanilalJS website for a fictional travel agency. 
 
-Created really to utlize aspects of JQuery and JavaScript that I had not applied to an actual project before. I also really wanted to use the full screen background image idea in a website, as it is something I hope to be using more often in the future. 
+Created to utlize aspects of JQuery and JavaScript that I hadn't used before. I also wanted to try the full screen background image for a wesbite with functionality. 
 
-The site is really image and CSS animation heavy. Utlizes Boostrap, HTML5, JavaScript, JQuery and CSS style sheets pulled from W3Schools.  
+Utlizes Boostrap, HTML5, JavaScript, JQuery and CSS style sheets pulled from W3Schools.  
 
 
 

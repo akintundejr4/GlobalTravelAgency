@@ -1,7 +1,7 @@
 # GlobalTravelAgency
 
 
-A VanilalJS website for a fictional travel agency. 
+A basic html/css/js website for a fictional travel agency. 
 
 Created to utlize aspects of JQuery and JavaScript that I hadn't used before. I also wanted to try the full screen background image for a wesbite with functionality. 
 
